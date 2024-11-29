@@ -31,4 +31,4 @@ To view or modify the website locally:
 
 ## Link: https://mastersahil.github.io/Yummy/
 
-![Yummy Scanner](https://github.com/user-attachments/assets/11558487-6b5e-4c06-a26d-1d5898cb39dd)
+![Yummy Scanner](https://github.com/user-attachments/assets/4af5a5a4-025c-4dc2-a0a8-cd5601fc3e34)
