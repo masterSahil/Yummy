@@ -1,0 +1,543 @@
+@media screen and (orientation: portrait) {
+    .btn{
+        display: none;
+    }
+}
+@media screen and (min-width: 301px) and (max-width: 400px) {
+    .topbar{
+        margin: 0 1vw;
+        font-size: 4vw;
+        margin-right: .2vw;
+    }
+    .btn{
+        margin-top: 1.2vh;
+        padding: .4vw;
+        margin-right: .6vw;
+        width: 16vw;
+    }
+    #contact, #gallery, #chef{
+        display: none;
+    }
+    #top1{
+        margin-left: 2vw;
+        font-size: 4vw;
+    }
+    .logo{
+        margin-left: .1vw;
+        font-size: 5vw;
+    }
+    .heading1{
+        font-size: 5vh;
+    }
+    .content{
+        padding-left: 3vw;
+        width: 90vw;
+        padding-bottom: 0;
+        background: #f2f2f2;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .mainImg{
+        display: flex;
+        justify-content: center;
+        background: #f2f2f2;
+        width: 99vw;
+    }
+    .sub{
+        text-align: center;
+        background: #f2f2f2;
+        width: 96.9vw;
+        margin-left: -1.5vh;
+    }
+    .img1{
+        top: 1vh;
+        width: 55vw;
+        height: 55vw;
+    }
+    .video{
+        top: -5.6vw;
+    }
+    .book{
+        top: -8.5vw;
+    }
+    .para1{
+        top: -8.5vw;
+    }
+    .mainImg{
+        padding: 0;
+        padding-top: 2vh;
+        padding-bottom: 2.2vh;
+    }
+    .container3{
+        flex-direction: column;
+    }
+    .content2{
+        display: flex;
+        align-items: center;
+    }
+    .para4, .para5, .ul{
+        font-size: small;
+    }
+    .img2{
+        width: 99vw;
+    }
+    .para3{
+        width: 100vw;
+        box-sizing: border-box;
+    }
+    .img3{
+        width: 95vw;
+        height: fit-content;
+    }
+    .aboutUsInfo{
+        padding: 0 5vw;
+    }
+    .heading2{
+        display: block;
+        margin: 10px;
+    }
+    .img4{
+        height: 50vw;
+    }
+    .content5{
+        font-size: x-small;
+        top: -44vw;
+    }
+}
+
+@media screen and (min-width: 401px) and (max-width: 500px) {
+    .topbar{
+        margin: 0 1vw;
+        font-size: 4vw;
+        margin-right: .2vw;
+    }
+    .btn{
+        margin-top: 1.2vh;
+        padding: .4vw;
+        margin-right: .6vw;
+        width: 16vw;
+    }
+    #contact, #gallery{
+        display: none;
+    }
+    #top1{
+        margin-left: 2vw;
+        font-size: 4vw;
+    }
+    .logo{
+        margin-left: .1vw;
+        font-size: 5.5vw;
+    }
+    .heading1{
+        font-size: 5vh;
+    }
+    .content{
+        padding-left: 3vw;
+        width: 90vw;
+        padding-bottom: 0;
+        background: #f2f2f2;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .mainImg{
+        display: flex;
+        justify-content: center;
+        background: #f2f2f2;
+        width: 99vw;
+    }
+    .sub{
+        text-align: center;
+        background: #f2f2f2;
+        width: 96.9vw;
+        margin-left: -1.5vh;
+    }
+    .img1{
+        top: 1vh;
+        width: 55vw;
+        height: 55vw;
+    }
+    .video{
+        top: -5.6vw;
+    }
+    .book{
+        top: -8.5vw;
+    }
+    .para1{
+        top: -8.5vw;
+    }
+    .mainImg{
+        padding: 0;
+        padding-top: 2vh;
+        padding-bottom: 2.5vh;
+    }
+    .container3{
+        flex-direction: column;
+    }
+    .content2{
+        display: flex;
+        align-items: center;
+    }
+    .img2{
+        width: 99vw;
+    }
+    .para3{
+        width: 100vw;
+        box-sizing: border-box;
+    }
+    .img3{
+        width: 95vw;
+        height: fit-content;
+    }
+    .img4{
+        height: 45vw;
+    }
+    .content5{
+        font-size: smaller;
+        top: -44vw;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 503px) {
+    #contact{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 600px) {
+    .topbar{
+        margin: 0 1vw;
+        font-size: 3vw;
+        margin-right: .25vw;
+    }
+    .btn{
+        margin-top: 1.2vh;
+        padding: .6vw;
+        margin-right: .6vw;
+        width: 11vw;
+    }
+    #top1{
+        margin-left: 2.3vw;
+        font-size: 3vw;
+    }
+    .logo{
+        margin-left: .25vw;
+        font-size: larger;
+    }
+    .heading1{
+        font-size: 5vh;
+    }
+    .content{
+        padding-left: 3vw;
+        width: 90vw;
+        padding-bottom: 0;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .mainImg{
+        display: flex;
+        justify-content: center;
+        width: 97vw;
+    }
+    .sub{
+        text-align: center;
+        width: 96.9vw;
+        margin-left: -1.5vh;
+    }
+    .img1{
+        top: 1vh;
+        width: 55vw;
+        height: 55vw;
+    }
+    .video{
+        top: -4.5vw;
+    }
+    .book{
+        top: -6.1vw;
+    }
+    .para1{
+        top: -6.1vw;
+    }
+    .mainImg{
+        padding: 0;
+        padding-top: 2vh;
+    }
+    .container3{
+        flex-direction: column;
+    }
+    .content2{
+        display: flex;
+        align-items: center;
+    }
+    .img2{
+        width: 99vw;
+    }
+    .para3{
+        width: 100vw;
+        box-sizing: border-box;
+    }
+    .para4, .para5, .ul{
+        font-size: large;
+    }
+    .img3{
+        width: 95vw;
+        height: fit-content;
+    }
+    .img4{
+        height: 33vw;
+    }
+    .content5{
+        font-size: small;
+        top: -34vw;
+    }
+}
+
+
+@media screen and (min-width: 601px) and (max-width: 700px) {
+    .topbar{
+        margin: 0 1.2vw;
+        font-size: 2.3vh;
+        margin-right: .25vw;
+    }
+    .btn{
+        margin-top: 1.2vh;
+        padding: .6vw;
+        margin-right: .6vw;
+        width: 11vw;
+    }
+    #top1{
+        margin-left: 2.5vw;
+        font-size: 2.3vh;
+    }
+    .logo{
+        margin-left: .8vw;
+        font-size: x-large;
+    }
+    .video{
+        top: -4.5vw;
+    }
+    .book{
+        top: -6.1vw;
+    }
+    .para1{
+        top: -6.1vw;
+    }
+    .mainImg{
+        padding-top: 2vh;
+    }
+    .container3{
+        flex-direction: column;
+    }
+    .content2{
+        display: flex;
+        align-items: center;
+    }
+    .img2{
+        width: 99vw;
+    }
+    .para3{
+        width: 100vw;
+        box-sizing: border-box;
+    }
+    .para4, .para5, .ul{
+        font-size: large;
+    }
+    .img3{
+        width: fit-content;
+        height: fit-content;
+        margin-left: -2.5vw;
+    }
+    .img4{
+        height: 30vw;
+    }
+    .content5{
+        font-size: small;
+        top: -29vw;
+    }
+}
+
+@media screen and (min-width: 701px) and (max-width: 800px) {
+    .topbar{
+        margin: 0 1.6vw;
+        font-size: 2vw;
+    }
+    .btn{
+        margin-top: 1.15vh;
+        padding: .6vw;
+        margin-right: .8vw;
+        width: 11vw;
+    }
+    #top1{
+        margin-left: 2.5vw;
+        font-size: 2vw;
+    }
+    .logo{
+        margin-left: 2vw;
+        font-size: x-large;
+    }
+    .container{
+        display: flex;
+    }
+    .video{
+        top: -3.5vw;
+    }
+    .book{
+        top: -5.1vw;
+    }
+    .para1{
+        top: -5.1vw;
+    }
+    .mainImg{
+        padding-top: 2vh;
+    }
+    .container3{
+        flex-direction: column;
+    }
+    .content2{
+        display: flex;
+        align-items: center;
+    }
+    .img2{
+        width: 99vw;
+    }
+    .para3{
+        width: 100vw;
+        box-sizing: border-box;
+    }
+    .para4, .para5, .ul{
+        font-size: large;
+    }
+    .img3{
+        width: fit-content;
+        height: fit-content;
+    }
+    .img4{
+        height: 30vw;
+    }
+    .content5{
+        top: -30vw;
+    }
+}
+
+
+@media screen and (min-width: 801px) and (max-width: 900px) {
+    .topbar{
+        margin: 0 1.6vw;
+        font-size: 1.85vw;
+    }
+    .btn{
+        margin-top: 1.15vh;
+        padding: .7vw;
+        margin-right: 1vw;
+        width: 11vw;
+    }
+    #top1{
+        margin-left: 4vw;
+        font-size: 1.85vw;
+    }
+    .logo{
+        margin-left: 3vw;
+        font-size: x-large;
+    }
+    .video{
+        top: -1vw;
+    }
+    .book{
+        top: -2.25vw;
+    }
+    .para1{
+        top: -2.25vw;
+    }
+    .mainImg{
+        padding-top: 2vh;
+    }
+    .para4, .ul, .para5{
+        font-size: small;
+    }
+    .para4{
+        margin-top: 0;
+    }
+    .img3{
+        height: 22.6vw;
+    }
+    .img4{
+        height: 31vw;
+    }
+    .content5{
+        top: -28vw;
+    }
+}
+
+@media screen and (min-width: 901px) and (max-width: 1000px) {
+    .topbar{
+        margin: 0 1.75vw;
+    }
+    .btn{
+        margin-top: .75vh;
+        padding: 1vw;
+        margin-right: 1vw;
+        width: 11vw;
+    }
+    #top1{
+        margin-left: 4vw;
+    }
+    .logo{
+        font-size: xx-large;
+        margin-left: 3vw;
+    }
+    .book{
+        top: -1.2vw;
+    }
+    .para1{
+        top: -1.15vw;
+    }
+    .para4, .ul, .para5{
+        font-size: small;
+    }
+    .para4{
+        margin-top: 0;
+    }
+    .content5{
+        top: -24vw;
+    }
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1100px) {
+    .topbar{
+        margin: 0 2vw;
+    }
+    #top1{
+        margin-left: 5vw;
+    }
+    .btn{
+        margin-top: 1vh;
+        padding: .68vw;
+        margin-right: 3vw;
+    }
+    .logo{
+        margin-left: 3vw;
+    }
+    .book{
+        width: 9vw;
+    }
+    .para1{
+        top: -1.15vw;
+    }
+    .para4, .ul, .para5{
+        font-size: small;
+    }
+    .para4{
+        margin-top: 0;
+    }
+    .content5{
+        top: -22.5vw;
+    }
+}

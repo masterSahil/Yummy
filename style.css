@@ -1,0 +1,512 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: sans-serif;
+    margin: 0;
+    overflow-x: hidden;
+}
+button{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-weight: normal;
+}
+.logo{
+    font-family: sans-serif;
+    display: inline;
+    margin-left: 5vw;
+    font-size: 2vw;
+}
+.logo123{
+    color: #ce1212;
+}
+.dot{
+    font-size: xx-large;
+    color: red;
+}
+.topbar{
+    transition: .2s;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin-right: 3vw;
+    color: #000;
+}
+.topbar:hover{
+    font-size: large;
+    border-bottom: 2px solid;
+    color: red;
+}
+#top1{
+    margin-left: 10vw;
+}
+.btn{
+    margin-top: .5vh;
+    background: red;
+    border: none;
+    width: 9vw;
+    padding: .8vw;
+    border-radius: 5vw;
+    color: #fff;
+    float: right;
+    margin-right: 5vw;
+}
+.btn:hover{
+    opacity: 70%;
+}
+header{
+    padding: 1vw;
+}
+.container{
+    background: #ecebeb;
+    display: flex;
+    width: 100%;
+}
+.content{
+    text-transform: capitalize;
+    padding: 6vw;
+    width: 40vw;
+}
+.heading1{
+    font-size: 4vw;
+}
+.img1{
+    position: relative;
+    margin-top: 4vw;
+    height: 30vw;
+    animation: main 3s ease-in-out infinite alternate-reverse both;
+    transition: all 2s;
+}
+.mainImg{
+    padding: 0 5vw 5vw 5vw;
+}
+.book{
+    background: red;
+    border: none;
+    padding: 1vw;
+    border-radius: 20vw;
+    font-weight: bold;
+    color: #fff;
+    position: relative;
+    top: -.85vw;
+}
+.book:hover{
+    background: #fff;
+    border: 2px solid;
+    color: red;
+}
+.video{
+    margin-top: 3vw;
+    display: inline-flex;
+    height: 32px;
+    position: relative;
+}
+.para1{
+    display: inline-block;
+    position: relative;
+    top: -.85vw;
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+@keyframes main {
+    0%{
+        transform: translateY(20px);
+    }
+    100%{
+        transform: translateY(-5px);
+    }
+}
+
+.para2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: small;
+    color: gray;
+}
+.heading2{
+    display: inline;
+    font-size: 2.5em;
+}
+.heading2:nth-child(3){
+    color: red;
+}
+.container2{
+    margin-top: 5vh;
+    padding-bottom: 5vh;
+    text-align: center;
+}
+.img2{
+    width: 40vw;
+    display: block;
+}
+.para3{
+    font-size: x-large;
+    padding: 4vh 0;
+    width: 40vw;
+    font-weight: bolder;
+    border: 4px solid;
+    line-height: 4vh;
+}
+.content2{
+    padding: 0 3vw;
+    display: flex;
+    flex-direction: column;
+}
+.content3{
+    padding: 0 3vw;
+}
+.span1{
+    font-weight: normal;
+    color: #ce1212;
+}
+.container3{
+    display: flex;
+}
+.ul{
+    list-style-type: decimal;
+}
+.para4, .para5, .ul{
+    text-align: left;
+    font-size: large;
+}
+.img3{
+    height: 25vw;
+}
+.aboutUsInfo{
+    padding-top: 5vh;
+    padding-bottom: 8vh;
+}
+.container4{
+    height: 32vw;
+}
+.content4{
+    padding-left: 1vw;
+    display: flex;
+    justify-content: center;
+}
+.img4{
+    width: 98vw;
+    height: 25vw;
+    object-fit: cover;
+}
+.content5{
+    position: relative;
+    top: -20vw;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+}
+.subContent2{
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    gap: 1vw;
+}
+.heading4{
+    color: red;
+}
+.subContent3{
+    margin-top: 1vw;
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+}
+.btn2{
+    font-size: larger;
+    border: none;
+    background: none;
+    border-bottom: gainsboro 2px solid;
+    padding: 1vw;
+    transition: .5s;
+    margin-bottom: 2vw;
+}
+.btn2:hover{
+    border-bottom: #ce1212 2px solid;
+}
+.activate{
+    border-bottom: #ce1212 2px solid;
+}
+.para6{
+    text-align: center;
+    text-transform: uppercase;
+}
+.heading5{
+    text-align: center;
+    color: #ce1212;
+    font-weight: normal;
+    font-size: 2.5em;
+}
+.foodItems{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-bottom: 4vw;
+    background: #eaeaea;
+}
+.menuImg{
+    height: 17vw;
+}
+.foodPara{
+    font-size: xx-large;
+}
+.foodPrice{
+    font-size: xx-large;
+    font-weight: bold;
+    color: #ce1212;
+}
+.subfood{
+    text-align: center;
+    background: #eaeaea;
+    padding: 2vw;
+}
+.heading6, .heading7{
+    text-transform: capitalize;
+    text-align: center;
+}
+.heading7{
+    color: red;
+}
+.btn3{
+    height: 10vw;
+    margin: 0 1vw;
+    background: red;
+    border-radius: 20vw;
+    color: #fff;
+    border: none;
+    font-size: 2vw;
+    font-weight: bold;
+}
+.img5{
+    height: 15vw;
+    border-radius: 50%;
+}
+.subContent7{
+    margin: 7vw 0;
+    display: flex;
+    padding: 0 7vw;
+    align-items: center;
+}
+.testimonials{
+    display: flex;
+    align-items: center;
+}
+.subTestimonials{
+    padding: 0 5vw;
+}
+.information{
+    font-size: larger;
+}
+.information, .heading8, .para7{
+    text-transform: capitalize;
+}
+.heading9{
+    margin-bottom: 5vw;
+    text-align: center;
+}
+.content8{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.subContent8{
+    display: flex;
+    justify-content: center;
+    margin: 2vw 0 5vw 0;
+    flex-wrap: wrap;
+}
+.img6{
+    height: 45vw;
+    object-fit: cover;
+    margin-bottom: 5vw;
+    width: 90vw;
+}
+.img7{
+    position: absolute;
+    height: 10vw;
+    object-fit: contain;
+}
+.post{
+    margin-left: -10vw; 
+}
+.pre, .post{
+    margin-top: 20vw;
+}
+.icon{
+    border-radius: 50%;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+    width: auto;
+}
+.subContent9{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.heading10, .heading9, .heading6, .logo{
+    font-weight: bold;
+}
+.subContent10{
+    margin-top: -2vw;
+    padding: 0 15vw;
+}
+.heading10, .para8{
+    margin: 0;
+}
+.heading10, .head2{
+    text-align: center;
+}
+.head2{
+    margin-top: 1vw;
+}
+.head3{
+    margin-top: 3vw;
+    display: flex;
+    justify-content: center;
+}
+.heading11, .heading12{
+    font-weight: bold;
+    text-align: center;
+    display: inline;
+}
+.heading12{
+    color: red;
+}
+.chefs{
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.subContent11{
+    display: flex;
+    justify-content: space-around;
+}
+.chefProfile{
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+}
+.imgChef{
+    width: 30vw;
+    transition: .5s;
+}
+.chefName, .work{
+    text-align: center;
+}
+.para9{
+    padding: 0 2vw;
+    text-align: justify;
+}
+.container9{
+    margin: 2vw 0;
+}
+.subContent12{
+    display: flex;
+    justify-content: center;
+}
+.subContent13{
+    display: flex;
+    justify-content: center;
+}
+#head4, #head5{
+    margin: 1vw 0;
+}
+.img8{
+    object-fit: cover;
+    height: 4vw;
+}
+.contactForm{
+    padding-left: 2vw;
+    display: flex;
+    align-items: center;
+    width: 42vw;
+    background: #eaeaea;
+    margin: 1vw 0;
+}
+.info20{
+    margin-left: 2vw;
+}
+.content11{
+    margin-left: 2.75vw;
+}
+.content12{
+    margin-right: 2.75vw;
+}
+.container10{
+    display: flex;
+    justify-content: space-between;
+}
+.img9{
+    height: 45vw;
+}
+.part2{
+    background: #f0efef;
+    display: flex;
+    align-items: center;
+    padding: 2vw;
+    padding-right: 1vw;
+    width: 58vw;
+}
+.formUser, .subPart1, .subPart2{
+    display: flex;
+}
+.proContainer2{
+    margin-top: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formUser{
+    background: #f0efef;
+}
+.subPart1, .subPart2{
+    justify-content: space-around;
+}
+.subPart1, .subPart2, .subPart3, .subPart4{
+    margin: 1vw 0 2.5vw 0;
+}
+.subPart3{
+    display: flex;
+    justify-content: center;
+}
+.subPart4{
+    display: flex;
+    justify-content: space-evenly;
+}
+input{
+    border: 1px solid gray;
+    height: 2.75vw;
+    width: 16vw;
+    padding: 0 1vw;
+    font-size: large;
+}
+#name{
+    text-transform: capitalize;
+}
+#email{
+    text-transform: lowercase;
+}
+input:focus, textarea:focus{
+    outline-color: #ce1212;
+}
+textarea{
+    text-transform: capitalize;
+    padding-left: 1vw;
+    font-size: large;
+    width: 55vw;
+    resize: none;
+}
+::placeholder{
+    padding-left: .5vw;
+    font-family: sans-serif;
+    font-size: large;
+}

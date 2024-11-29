@@ -1,0 +1,647 @@
+@media screen and (max-width: 400px) {
+    .subContent11{
+        padding: 5vw 0;
+        flex-direction: column;
+        align-items: center;
+    }   
+    .chefs{
+        padding: 3vw 0;
+    }
+    .chefName{
+        margin-bottom: 1vw;
+    }
+    .work{
+        margin-top: 0;
+    }
+    .heading11{
+        margin-bottom: .5vw;
+        font-size: x-large;
+    }
+    .heading12{
+        margin-top: .5vw;
+        margin-bottom: .5vw;
+        font-size: x-large;
+    }
+    .head3{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgChef{
+        width: 80vw;
+    }
+    .para9{
+        margin-top: 0;
+        padding: 0 8vw;
+        text-align: justify;
+    }
+    .contactForm{
+        width: 74vw;
+        padding: 0 8vw;
+    }
+    .container10{
+        display: block;
+    }
+    .proContainer{
+        display: flex;
+        justify-content: center;
+    }
+    .head7{
+        margin-bottom: 0;
+    }
+    .head6{
+        margin-top: 1vw;
+    }
+    .img8{
+        height: 10vw;
+    }
+    .proContainer2{
+        margin-left: 0;
+    }
+    .formUser{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .part2{
+        padding-top: 5vw;
+        justify-content: center;
+        width: 87vw;
+    }
+    textarea{
+        width: 76vw;
+        height: 40vw;
+    }
+    .formButton{
+        margin-top: 2vw;
+        margin-bottom: 4vw;
+        width: 20vw;
+    }
+    .formButton2{
+        margin-top: 2vw;
+        margin-bottom: 4vw;
+        width: 30vw;
+    }
+    .form{
+        width: 80vw;
+    }
+    .img9{
+        object-fit: cover;
+        object-position: bottom;
+        width: 90vw;
+    }
+    input{
+        padding: 1.5vw;
+        width: 74vw;
+        height: 6.5vw;
+        margin-top: 2vw;
+    }
+    #date{
+        margin-top: 0;   
+    }
+    .subPart1, .subPart2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .content11, .content12{
+        margin: 0;
+    }
+    .info20{
+        margin-left: 4.5vw;
+    }
+}
+
+
+@media screen and (min-width: 401px) and (max-width: 500px) {
+    .subContent11{
+        padding: 5vw 0;
+        flex-direction: column;
+        align-items: center;
+    }   
+    .chefs{
+        padding: 3vw 0;
+    }
+    .chefName{
+        margin-bottom: 1vw;
+    }
+    .work{
+        margin-top: 0;
+    }
+    .heading11{
+        margin-bottom: .5vw;
+        font-size: x-large;
+    }
+    .heading12{
+        margin-top: .5vw;
+        font-size: x-large;
+    }
+    .head3{
+        display: flex;
+        flex-direction: column;
+    }
+    .imgChef{
+        width: 80vw;
+    }
+    .para9{
+        margin-top: 0;
+        padding: 0 8vw;
+        text-align: justify;
+    }
+    .contactForm{
+        width: 74vw;
+        padding: 0 8vw;
+    }
+    .container10{
+        display: block;
+    }
+    .proContainer{
+        display: flex;
+        justify-content: center;
+    }
+    .head7{
+        margin-bottom: 0;
+    }
+    .head6{
+        margin-top: 1vw;
+    }
+    .img8{
+        height: 9.5vw;
+    }
+    .proContainer2{
+        margin-left: 0;
+    }
+    .formUser{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .part2{
+        padding-top: 5vw;
+        justify-content: center;
+        width: 87vw;
+    }
+    textarea{
+        width: 76vw;
+        height: 40vw;
+    }
+    .formButton{
+        width: 15vw;
+    }
+    .formButton2{
+        width: 23vw;
+    }
+    .form{
+        width: 80vw;
+    }
+    .img9{
+        object-fit: cover;
+        object-position: bottom;
+        width: 90vw;
+    }
+    input{
+        padding: 1.5vw;
+        width: 74vw;
+        height: 5vw;
+        margin-top: 2vw;
+    }
+    #date{
+        margin-top: 0;   
+    }
+    .subPart1, .subPart2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .content11, .content12{
+        margin: 0;
+    }
+    .info20{
+        margin-left: 4.5vw;
+    }
+}
+
+
+@media screen and (min-width: 501px) and (max-width: 600px) {
+    .subContent11{
+        padding: 5vw 0;
+        flex-direction: column;
+        align-items: center;
+    }   
+    .chefs{
+        padding: 3vw 0;
+    }
+    .chefName{
+        margin-bottom: 1vw;
+    }
+    .work{
+        margin-top: 0;
+    }
+    .head3{
+        display: flex;
+        flex-direction: column;
+    }
+    .heading11{
+        margin-bottom: .5vw;
+    }
+    .heading12{
+        margin-top: .5vw;
+    }
+    .imgChef{
+        width: 80vw;
+    }
+    .contactForm{
+        width: 74vw;
+        padding: 0 8vw;
+    }
+    .container10{
+        display: block;
+    }
+    .proContainer{
+        display: flex;
+        justify-content: center;
+    }
+    .head7{
+        margin-bottom: 0;
+    }
+    .head6{
+        margin-top: 2vw;
+    }
+    .img8{
+        height: 8vw;
+    }
+    .proContainer2{
+        margin-left: 0;
+    }
+    .formUser{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .part2{
+        padding-top: 5vw;
+        justify-content: center;
+        width: 87vw;
+    }
+    textarea{
+        width: 76vw;
+        height: 40vw;
+    }
+    .formButton{
+        width: 12vw;
+    }
+    .formButton2{
+        width: 23vw;
+    }
+    .form{
+        width: 80vw;
+    }
+    .img9{
+        object-fit: cover;
+        object-position: bottom;
+        width: 90vw;
+    }
+    input{
+        padding: 1.5vw;
+        width: 74vw;
+        height: 4.5vw;
+        margin-top: 2vw;
+    }
+    #date{
+        margin-top: 0;   
+    }
+    .subPart1, .subPart2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .content11, .content12{
+        margin: 0;
+    }
+    .info20{
+        margin-left: 4.5vw;
+    }
+}
+
+
+@media screen and (min-width: 601px) and (max-width: 700px) {
+    .subContent11{
+        padding: 5vw 0;
+        flex-direction: column;
+        align-items: center;
+    }   
+    .chefs{
+        padding: 3vw 0;
+    }
+    .chefName{
+        margin-bottom: 1vw;
+    }
+    .work{
+        margin-top: 0;
+    }
+    .imgChef{
+        width: 80vw;
+    }
+    .contactForm{
+        width: 74vw;
+        padding: 0 8vw;
+    }
+    .container10{
+        display: block;
+    }
+    .proContainer{
+        display: flex;
+        justify-content: center;
+    }
+    .img8{
+        height: 7vw;
+    }
+    .img8{
+        height: 6vw;
+    }
+    .proContainer2{
+        margin-left: 0;
+    }
+    .formUser{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .part2{
+        padding-top: 5vw;
+        justify-content: center;
+        width: 87vw;
+    }
+    textarea{
+        width: 76vw;
+    }
+    .formButton{
+        width: 12vw;
+    }
+    .formButton2{
+        width: 19vw;
+    }
+    .form{
+        width: 80vw;
+    }
+    .img9{
+        object-fit: cover;
+        object-position: bottom;
+        width: 90vw;
+    }
+    input{
+        padding: 1.5vw;
+        width: 74vw;
+        height: 3.5vw;
+        margin-top: 2vw;
+    }
+    #date{
+        margin-top: 0;   
+    }
+    .subPart1, .subPart2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .content11, .content12{
+        margin: 0;
+    }
+    .info20{
+        margin-left: 4.5vw;
+    }
+}
+
+
+@media screen and (min-width: 701px) and (max-width: 800px) {
+    .subContent11{
+        padding: 5vw 0;
+        flex-direction: column;
+        align-items: center;
+    }   
+    .chefs{
+        padding: 3vw 0;
+    }
+    .chefName{
+        margin-bottom: 1vw;
+    }
+    .work{
+        margin-top: 0;
+    }
+    .imgChef{
+        width: 100vw;
+    }
+    .contactForm{
+        width: 74vw;
+        padding: 0 8vw;
+    }
+    .container10{
+        display: block;
+    }
+    .proContainer{
+        display: flex;
+        justify-content: center;
+    }
+    .img8{
+        height: 6vw;
+    }
+    .proContainer2{
+        margin-left: 0;
+    }
+    .formUser{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .part2{
+        padding-top: 5vw;
+        justify-content: center;
+        width: 87vw;
+    }
+    textarea{
+        width: 75vw;
+    }
+    .formButton{
+        width: 12vw;
+    }
+    .formButton2{
+        width: 17vw;
+    }
+    .form{
+        width: 80vw;
+    }
+    .img9{
+        object-fit: cover;
+        object-position: bottom;
+        width: 90vw;
+    }
+    input{
+        padding: 1vw;
+        width: 20vw;
+    }
+    .content11, .content12{
+        margin: 0;
+    }
+    .info20{
+        margin-left: 4vw;
+    }
+}
+
+
+@media screen and (min-width: 801px) and (max-width: 900px) {
+    .subContent11{
+        padding: 5vw 0;
+        flex-direction: column;
+        align-items: center;
+    }   
+    .chefs{
+        padding: 3vw 0;
+    }
+    .imgChef{
+        width: 100vw;
+    }
+    .chefName{
+        margin-bottom: 1vw;
+    }
+    .work{
+        margin-top: 0;
+    }
+    .contactForm{
+        width: 79vw;
+        padding: 0 8vw;
+    }
+    .container10{
+        display: block;
+    }
+    .proContainer{
+        display: flex;
+        justify-content: center;
+    }
+    .img8{
+        height: 6vw;
+    }
+    .part2{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .formButton2{
+        width: 15vw;
+    }
+    .subPart4{
+        margin-top: -.5vw;
+        margin-bottom: 0;
+    }
+    textarea{
+        height: 20vw;
+    }
+    .content11, .content12{
+        margin: 0;
+    }
+    .info20{
+        margin-left: 4vw;
+    }
+}
+
+
+@media screen and (min-width: 901px) and (max-width: 1000px) {
+    .subContent11{
+        padding: 5vw 0;
+        flex-direction: column;
+        align-items: center;
+    }   
+    .chefs{
+        padding: 3vw 0;
+    }
+    .chefName{
+        margin-bottom: 1vw;
+    }
+    .work{
+        margin-top: 0;
+    }
+    .imgChef{
+        width: 100vw;
+    }
+
+    .contactForm{
+        width: 79vw;
+        padding: 0 8vw;
+    }
+    .container10{
+        display: block;
+    }
+    .proContainer{
+        display: flex;
+        justify-content: center;
+    }
+    .img8{
+        height: 6vw;
+    }
+    .part2{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .formButton2{
+        width: 13vw;
+    }
+    .subPart4{
+        margin-top: -.5vw;
+        margin-bottom: 0;
+    }
+    textarea{
+        height: 20vw;
+    }
+    .content11, .content12{
+        margin: 0;
+    }
+    .info20{
+        margin-left: 4vw;
+    }
+}
+
+
+@media screen and (min-width: 1001px) and (max-width: 1100px) {
+    .chefProfile{
+        overflow: hidden;
+    }
+    .imgChef:hover{
+        transform: scale(1.2);
+    }
+    .img8{
+        height: 5vw;
+    }
+    .part2{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .formButton2{
+        width: 13vw;
+    }
+    .subPart4{
+        margin-top: -.5vw;
+        margin-bottom: 0;
+    }
+    textarea{
+        height: 20vw;
+    }
+}
+
+
+@media screen and (min-width: 1101px){
+    .chefProfile{
+        overflow: hidden;
+    }
+    .imgChef{
+        opacity: 90%;
+        filter: grayscale(70%);
+    }
+    .imgChef:hover{
+        opacity: 100%;
+        filter: grayscale(0%);
+        transform: scale(1.2);
+    }
+    .formButton2{
+        line-height: 2vw;
+        width: 13vw;
+    }
+    .part2{
+        width: auto;
+    }
+}

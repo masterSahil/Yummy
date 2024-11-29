@@ -1,0 +1,599 @@
+@media screen and (max-width: 400px) {
+    .container4{
+        height: 62vw;
+    }
+    .foodItems{
+        max-width: 100vw;
+        overflow: scroll;
+        display: flex;
+    }
+    .menuImg{
+        height: 35vw;
+    }
+    .foodPara, .foodPrice{
+        margin-top: 4vw;
+        margin-bottom: 2vw;
+        font-size: large;
+    }
+    .foodPrice{
+        margin-top: 2vw;
+    }
+    .subfood{
+        display: flex;
+        flex-direction: column;
+        padding: 5vw;
+        align-items: center;
+    }
+    .subContent2{
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+    .heading3, .heading4{
+        margin: 1vw 0 2vw 0;
+    }
+    #flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .subContent7{
+        padding-right: 2vw;
+        padding-left:  2vw;
+        justify-content: baseline;
+        align-items: normal;
+    }
+    .heading8{
+        margin: 0;
+        font-size: x-large;
+        text-align: center;
+    }
+    .para7{
+        margin: .75vw 0;
+        text-align: center;
+    }
+    .img5{
+        height: 60vw;
+    }
+    .btn3{
+        font-size: xx-large;
+        margin-top: -21vw;
+        height: 26vw;
+    }
+    .information{
+        border-left: .7vw solid #ce1212;
+        padding-left: 1.5vw;
+        font-size: medium;
+    }
+    #sub1{
+        padding-right: 1vw;
+        padding-left: 1vw;
+        padding: 0;
+    }
+    .img7{
+        height: 20vw;
+    }
+    .post{
+        margin-left: -18vw;
+    }
+    .pre{
+        margin-left: -2vw;
+    }
+    .pre, .post{
+        margin-top: 32vw;
+    }
+    .img6{
+        height: 70vw;
+        object-fit: cover;
+    }
+    .container7{
+        margin-top: 10vw;
+    }
+    .heading10{
+        font-size: x-large;
+    }
+    .head2{
+        font-weight: 600;
+        font-size: large;
+    }
+    .para8{
+        text-align: justify;
+    }
+}
+ 
+@media screen and (min-width: 401px) and (max-width: 500px) {
+    .container4{
+        height: 58vw;
+    }
+    .foodItems{
+        max-width: 100vw;
+        overflow: scroll;
+        display: flex;
+    }
+    .menuImg{
+        height: 35vw;
+    }
+    .foodPara, .foodPrice{
+        margin-top: 4vw;
+        margin-bottom: 2vw;
+        font-size: large;
+    }
+    .foodPrice{
+        margin-top: 2vw;
+    }
+    .subfood{
+        display: flex;
+        flex-direction: column;
+        padding: 5vw;
+        align-items: center;
+    }
+    .subContent2{
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+    }
+    .heading3, .heading4{
+        margin: 1vw 0 2vw 0;
+    }
+    #flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .subContent7{
+        padding-right: 2vw;
+        padding-left:  2vw;
+        justify-content: baseline;
+        align-items: normal;
+    }
+    .heading8{
+        margin: 0;
+        font-size: x-large;
+        text-align: center;
+    }
+    .para7{
+        margin: .75vw 0;
+        text-align: center;
+    }
+    .img5{
+        height: 60vw;
+    }
+    .btn3{
+        font-size: xx-large;
+        margin-top: -21vw;
+        height: 26vw;
+    }
+    .information{
+        border-left: .7vw solid #ce1212;
+        padding-left: 1.5vw;
+        font-size: large;
+    }
+    #sub1{
+        padding-right: 1vw;
+        padding-left: 1vw;
+        padding: 0;
+    }
+    .img7{
+        height: 16vw;
+    }
+    .post{
+        margin-left: -14vw;
+    }
+    .pre{
+        margin-left: -2vw;
+    }
+    .pre, .post{
+        margin-top: 32vw;
+    }
+    .img6{
+        height: 70vw;
+        object-fit: cover;
+    }
+    .container7{
+        margin-top: 10vw;
+    }
+    .heading10{
+        font-size: x-large;
+    }
+    .head2{
+        font-weight: 600;
+        font-size: large;
+    }
+    .para8{
+        text-align: justify;
+    }
+}
+ 
+@media screen and (min-width: 501px) and (max-width: 600px) {
+    .container4{
+        height: 42vw;
+    }
+    .foodItems{
+        max-width: 100vw;
+        overflow: scroll;
+        display: flex;
+    }
+    .menuImg{
+        height: 35vw;
+    }
+    .foodPara, .foodPrice{
+        margin-top: 4vw;
+        margin-bottom: 2vw;
+        font-size: large;
+    }
+    .foodPrice{
+        margin-top: 2vw;
+    }
+    .subfood{
+        display: flex;
+        flex-direction: column;
+        padding: 5vw;
+        align-items: center;
+    }
+    #flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .subContent7{
+        padding-right: 2vw ;
+        padding-left:  2vw;
+    }
+    .heading8{
+        margin: 0;
+    }
+    .para7{
+        margin: .75vw 0;
+    }
+    .img5{
+        height: 60vw;
+    }
+    .btn3{
+        font-size: xx-large;
+        margin-top: -10vw;
+        height: 30vw;
+    }
+    .information{
+        border-left: .7vw solid #ce1212;
+        padding-left: 1.5vw;
+        font-size: large;
+    }
+    .img7{
+        height: 14vw;
+    }
+    .post{
+        margin-left: -12vw;
+    }
+    .pre{
+        margin-left: -2vw;
+    }
+    .pre, .post{
+        margin-top: 32vw;
+    }
+    .img6{
+        height: 70vw;
+        object-fit: cover;
+    }
+    .container7{
+        margin-top: 10vw;
+    }
+    .para8{
+        text-align: justify;
+    }
+}
+ 
+
+@media screen and (min-width: 601px) and (max-width: 700px) {
+    .container4{
+        height: 40vw;
+    }
+    .foodItems{
+        max-width: 100vw;
+        overflow: scroll;
+        display: flex;
+    }
+    .menuImg{
+        height: 35vw;
+    }
+    .foodPara, .foodPrice{
+        margin-top: 4vw;
+        margin-bottom: 2vw;
+        font-size: large;
+    }
+    .foodPrice{
+        margin-top: 2vw;
+    }
+    .subfood{
+        display: flex;
+        flex-direction: column;
+        padding: 5vw;
+        align-items: center;
+    }
+    #flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .subContent7{
+        padding-right: 2vw ;
+        padding-left:  2vw;
+    }
+    .heading8{
+        margin: 0;
+    }
+    .para7{
+        margin: .75vw 0;
+    }
+    .img5{
+        height: 60vw;
+    }
+    .btn3{
+        font-size: xx-large;
+        margin-top: -10vw;
+        height: 30vw;
+    }
+    .information{
+        border-left: .7vw solid #ce1212;
+        padding-left: 1.5vw;
+        font-size: large;
+    }
+    .img7{
+        height: 12vw;
+    }
+    .post{
+        margin-left: -10vw;
+    }
+    .pre{
+        margin-left: -2vw;
+    }
+    .pre, .post{
+        margin-top: 32vw;
+    }
+    .img6{
+        height: 70vw;
+        object-fit: cover;
+    }
+    .container7{
+        margin-top: 10vw;
+    }
+    .para8{
+        text-align: justify;
+    }
+}
+ 
+
+@media screen and (min-width: 701px) and (max-width: 800px) {
+    .container4{
+        height: 40vw;
+    }  
+    .foodItems{
+        max-width: 100vw;
+        overflow: scroll;
+        display: flex;
+    }
+    .menuImg{
+        height: 35vw;
+    }
+    .foodPara, .foodPrice{
+        margin-top: 4vw;
+        margin-bottom: 2vw;
+        font-size: large;
+    }
+    .foodPrice{
+        margin-top: 2vw;
+    }
+    .subfood{
+        display: flex;
+        flex-direction: column;
+        padding: 5vw;
+        align-items: center;
+    }
+    #flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .subContent7{
+        padding-right: 2vw ;
+        padding-left:  2vw;
+    }
+    .heading8{
+        margin: 0;
+    }
+    .para7{
+        margin: .75vw 0;
+    }
+    .img5{
+        height: 60vw;
+    }
+    .btn3{
+        font-size: xx-large;
+        margin-top: -10vw;
+        height: 25vw;
+    }
+    .information{
+        border-left: .7vw solid #ce1212;
+        padding-left: 1.5vw;
+        font-size: large;
+    }
+    .img7{
+        height: 12vw;
+    }
+    .post{
+        margin-left: -10vw;
+    }
+    .pre{
+        margin-left: -2vw;
+    }
+    .pre, .post{
+        margin-top: 32vw;
+    }
+    .img6{
+        height: 70vw;
+        object-fit: cover;
+    }
+    .container7{
+        margin-top: 10vw;
+    }
+    .para8{
+        text-align: justify;
+    }
+}
+ 
+
+@media screen and (min-width: 801px) and (max-width: 900px) {
+    .container4{
+        height: 40vw;
+    }
+    .foodItems{
+        max-width: 100vw;
+        overflow: scroll;
+        display: flex;
+    }
+    .menuImg{
+        height: 30vw;
+    }
+    .foodPara, .foodPrice{
+        margin-top: 4vw;
+        margin-bottom: 2vw;
+        font-size: larger;
+    }
+    .foodPrice{
+        margin-top: 2vw;
+    }
+    .subfood{
+        display: flex;
+        flex-direction: column;
+        padding: 5vw;
+        align-items: center;
+    }
+    #flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .subContent7{
+        padding-right: 2vw ;
+        padding-left:  2vw;
+    }
+    .heading8{
+        margin: 0;
+    }
+    .para7{
+        margin: .75vw 0;
+    }
+    .img5{
+        height: 50vw;
+    }
+    .btn3{
+        font-size: xx-large;
+        margin-top: -10vw;
+        height: 25vw;
+    }
+    .information{
+        border-left: .7vw solid #ce1212;
+        padding-left: 1.5vw;
+        font-size: large;
+    }
+    .img7{
+        height: 12vw;
+    }
+    .post{
+        margin-left: -10vw;
+    }
+    .pre{
+        margin-left: -2vw;
+    }
+    .pre, .post{
+        margin-top: 32vw;
+    }
+    .img6{
+        height: 70vw;
+        object-fit: cover;
+    }
+    .container7{
+        margin-top: 10vw;
+    }
+    .para8{
+        text-align: justify;
+    }
+}
+ 
+
+@media screen and (min-width: 901px) and (max-width: 1000px) {
+    #flex{
+        display: flex;
+        flex-direction: column;
+    }
+    .subContent7{
+        padding-right: 2vw ;
+        padding-left:  2vw;
+    }
+    .heading8{
+        margin: 0;
+    }
+    .para7{
+        margin: .75vw 0;
+    }
+    .img5{
+        height: 40vw;
+    }
+    .btn3{
+        font-size: xx-large;
+        margin-top: -10vw;
+        height: 25vw;
+    }
+    .information{
+        border-left: .7vw solid #ce1212;
+        padding-left: 1.5vw;
+        font-size: large;
+    }
+    .img7{
+        height: 12vw;
+    }
+    .post{
+        margin-left: -10vw;
+    }
+    .pre{
+        margin-left: -2vw;
+    }
+    .pre, .post{
+        margin-top: 26vw;
+    }
+    .img6{
+        height: 55vw;
+        object-fit: cover;
+    }
+    .para8{
+        text-align: justify;
+    }
+}
+ 
+
+@media screen and (min-width: 1001px) and (max-width: 1100px) {
+    .subContent7{
+        margin: 5vw 0;
+    }
+    .information{
+        font-size: large;
+    }
+    .heading8{
+        margin: 0;
+    }
+    .para7{
+        margin: .5vw;
+    }
+    .btn3{
+        height: 12vw;
+    }
+    .img5{
+        height: 18vw;
+    }
+    .para8{
+        text-align: justify;
+    }
+}
+ 
+
+@media screen and (min-width: 1101px) {
+    .information{
+        font-size: x-large;
+    }
+    .img5{
+        height: 20vw;
+    }
+}
